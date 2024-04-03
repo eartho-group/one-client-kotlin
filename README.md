@@ -126,7 +126,7 @@ Project Link: [https://github.com/eartho-group/](https://github.com/eartho-group
 Portions of this code are derived from projects licensed with MIT(Check the project's LICENSE file to see the full license).
 Here are the copyrights and the license type:
 
-- MIT License, Copyright (c) 2020 Auth0, Inc.
+- MIT License, Copyright (c) 2021 Auth0, Inc.
 - MIT License, Copyright (c) 2020-present Cryptr
 - MIT License, Copyright (c) 2020 Jose
 - MIT License, Copyright (c) 2016 Filip Skokan
